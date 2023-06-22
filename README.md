@@ -1,12 +1,12 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nato04/7030_datascience_conda.git/r40_p311/HEAD)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nato04/7030_datascience_conda.git/r40_p311)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/Nato04/7030_datascience_conda.git/r40_p311/HEAD
+https://mybinder.org/v2/gh/Nato04/7030_datascience_conda.git/r40_p311
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
